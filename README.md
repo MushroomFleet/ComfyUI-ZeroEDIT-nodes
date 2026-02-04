@@ -22,7 +22,7 @@ A deterministic procedural system for generating AI image editing prompts using 
 1. Clone or copy to your ComfyUI custom_nodes directory:
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-repo/DJZ-ZeroEDIT
+git clone https://github.com/your-repo/DJZ-ZeroEDIT-nodes
 ```
 
 2. Install dependencies:
