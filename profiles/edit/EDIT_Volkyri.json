@@ -1,0 +1,205 @@
+{
+  "name": "Volkyri Aesthetic",
+  "description": "Ancient starfaring warrior-attendants from the Hel Vortex system - asymmetrical half-horn, metallic bodysuits, martial elegance",
+  "version": "2.0.0",
+  
+  "templates": [
+    "Volkyri {role} in {primary_metal} metallic bodysuit with {accent_color} accent panels, {horn_description}. {pose_action}, expression of {expression}. {environment}. {lighting}. {skin_hair}. {shot_composition}. {style_tag}.",
+    
+    "{horn_description}, Volkyri {role} clad in form-fitting {primary_metal} armor with {accent_color} trim. {pose_action}. {expression} evident in her features. {environment}. {lighting} catches the metallic sheen of her attire. {skin_hair}. {shot_composition}. {style_tag}.",
+    
+    "Volkyri {role} bearing {horn_description}. She wears {primary_metal} reflective bodysuit with {accent_color} accents, {pose_action}. Expression of {expression} as {environment}. {lighting}. {skin_hair}, horn breaking silhouette asymmetrically. {shot_composition}. {style_tag}.",
+    
+    "Single {horn_shape} half-horn {horn_origin} of this Volkyri {role}, {horn_metal} sheathing catching light. {primary_metal} bodysuit with {accent_color} chest panel, {pose_action}. {expression} masks lethal capability. {environment}. {lighting}. {skin_hair}. {shot_composition}. {style_tag}.",
+    
+    "Volkyri {role} presents striking asymmetry with {horn_description}. Form-fitting {primary_metal} metallic attire with {accent_color} accents covers her frame as {pose_action}. {environment}, her {expression} unwavering. {lighting}. {skin_hair}. {shot_composition}. {style_tag}."
+  ],
+  
+  "pools": {
+    "horn_description": [
+      "single half-horn growing from left temple in swept-blade shape with polished metal sheathing",
+      "single half-horn growing from right temple in swept-blade shape, chrome-sheathed bone",
+      "asymmetrical half-horn emerging from left skull, conical spire variant with gunmetal plating",
+      "single conical spire horn fused to right temple, bone ridges visible at skull fusion point",
+      "half-horn of geometric plated design growing from left temple, angular faceted segments",
+      "right-temple mounted geometric horn with crystalline metal sheathing, bone fused to skull",
+      "single flame-swept horn curving from left temple in graceful S-curve, golden metal sheath",
+      "flame-swept half-horn emerging from right skull, flowing frozen-fire shape with chrome finish",
+      "spiral-twist horn growing from left temple, elegant helical form with ceremonial metal bands",
+      "single spiral horn fused to right temple, bone structure visible beneath silver plating",
+      "curved-talon half-horn emerging from left skull, smooth predatory curve with dark metal sheath",
+      "right-temple curved-talon horn, single backward sweep like obsidian claw fused to bone"
+    ],
+    
+    "horn_shape": [
+      "swept-blade",
+      "conical spire",
+      "flame-swept",
+      "geometric plated",
+      "spiral-twist",
+      "curved-talon"
+    ],
+    
+    "horn_origin": [
+      "growing from left temple",
+      "growing from right temple",
+      "emerging from left skull",
+      "emerging from right skull",
+      "fused to left temple",
+      "fused to right temple"
+    ],
+    
+    "horn_metal": [
+      "chrome",
+      "gunmetal",
+      "polished silver",
+      "golden metal",
+      "void-black metal",
+      "bronze"
+    ],
+    
+    "role": [
+      "warrior-scholar",
+      "beast-handler",
+      "diplomat",
+      "hunt-mistress",
+      "sentinel",
+      "acrobat-assassin",
+      "honor-guard",
+      "executor",
+      "blade-dancer",
+      "war-priestess",
+      "shadow-operative",
+      "throne-attendant",
+      "void-walker",
+      "chronicle-keeper",
+      "duel-champion",
+      "star-navigator"
+    ],
+    
+    "primary_metal": [
+      "warm gold",
+      "cool silver",
+      "antiqued bronze",
+      "dark gunmetal",
+      "void chrome",
+      "rich copper",
+      "mirror-black",
+      "white-silver chrome",
+      "yellow-gold",
+      "copper-brown"
+    ],
+    
+    "accent_color": [
+      "absolute black",
+      "deep purple",
+      "crimson red",
+      "pale gray",
+      "dark teal",
+      "white",
+      "midnight blue",
+      "blood red",
+      "charcoal black",
+      "violet"
+    ],
+    
+    "expression": [
+      "cold assessment, superior gaze evaluating all before her",
+      "subtle menace, slight smile suggesting imminent danger",
+      "regal composure, neutral and dignified, utterly unreadable",
+      "fierce focus, intense concentration betraying combat readiness",
+      "glacial serenity, absolute calm that masks violence beneath",
+      "proud defiance, chin raised with unwavering resolve",
+      "cold assessment as amber eyes scan her surroundings",
+      "subtle menace despite seemingly composed bearing",
+      "regal composure befitting ancient warrior nobility",
+      "fierce focus locked on unseen threat",
+      "glacial serenity that belies lethal capability",
+      "proud defiance etched into angular features"
+    ],
+    
+    "pose_action": [
+      "she stands with martial bearing, spine straight and chin level",
+      "seated on obsidian throne fragment, hands resting on armrests",
+      "one gloved hand raised in commanding gesture",
+      "kneeling with ceremonial precision, blade presented horizontally",
+      "standing at cliff edge, profile silhouette against void",
+      "captured mid-leap, body arched with athletic precision",
+      "both hands gripping ancient data-tome before her",
+      "arms crossed over metallic chest panel, weight shifted to one hip",
+      "striding forward with purposeful menace, cape of shadow trailing",
+      "holding ritual chalice of dark liquid at shoulder height",
+      "one hand on hip, other arm extended toward viewer",
+      "turning to glance over shoulder, horn silhouette prominent"
+    ],
+    
+    "environment": [
+      "Within dimly lit archive chamber of black stone and metal shelving",
+      "Rocky volcanic terrain stretches behind her, ash-filled sky and distant magma glow",
+      "Industrial gothic interior with geometric shadows pooling in corners",
+      "Twilight wasteland environment with metallic aurora overhead",
+      "At cliff edge overlooking jagged obsidian peaks beneath dying suns",
+      "Geometric fortress architecture frames her, harsh angular shadows everywhere",
+      "Throne chamber of polished black marble and chrome fixtures",
+      "Petrified grove of crystalline trees reflecting her metallic form",
+      "Fortress refectory with angular black-metal furnishings",
+      "Void space backdrop, distant nebula casting colored light",
+      "Ceremonial hall with towering columns of dark metal",
+      "Obsidian shore with metallic tide pools reflecting three suns"
+    ],
+    
+    "lighting": [
+      "Dramatic rim lighting from behind catches every metallic surface",
+      "Single harsh key light carves deep shadows across angular features",
+      "Purple accent gel lighting adds otherworldly atmosphere",
+      "Twilight ambience with metallic aurora painting highlights",
+      "Harsh directional light suggesting dying suns overhead",
+      "Strong underlighting creates dramatic upward shadows",
+      "Specular highlights dance across chrome and polished metal",
+      "Crimson accent lighting from molten background glow",
+      "Cool blue rim light separates figure from void darkness",
+      "Multiple stellar light sources cast overlapping warm shadows",
+      "Harsh overhead lighting with deep eye shadows",
+      "Side lighting emphasizes the asymmetry of her horn"
+    ],
+    
+    "skin_hair": [
+      "Pale porcelain skin contrasts dark attire, raven hair slicked back from horn",
+      "Alabaster complexion, silver-white hair flowing opposite the horn",
+      "Pale skin with subtle blue undertones, jet black hair cropped short",
+      "Porcelain features, dark hair in severe braid along hornless side",
+      "Near-white skin, ash-gray hair swept dramatically from temple",
+      "Pallid complexion catching metallic reflections, hair like liquid shadow",
+      "Ivory skin luminous against dark armor, platinum hair in warrior knots",
+      "Ghost-pale features, obsidian hair contrasting the metallic horn sheath",
+      "Marble-white skin, steel-gray hair falling past shoulders",
+      "Deathly pale complexion, midnight blue-black hair slicked severely back"
+    ],
+    
+    "shot_composition": [
+      "Medium shot with slight low angle emphasizing regal bearing",
+      "Full body shot showing complete metallic attire and stance",
+      "Close-up portrait emphasizing horn and expression",
+      "Three-quarter shot capturing pose and environmental context",
+      "Environmental wide shot with figure as focal anchor",
+      "Action shot frozen at dynamic moment",
+      "Medium close-up centered on face and horn silhouette",
+      "Low angle shot emphasizing imposing presence",
+      "Profile view showcasing horn asymmetry against background",
+      "Dramatic Dutch angle adding tension to composition"
+    ],
+    
+    "style_tag": [
+      "Volkyri aesthetic, feminine martial elegance",
+      "Hel Vortex origin, ancient warrior-attendant bearing",
+      "Volkyri aesthetic, elegance as lethality refined",
+      "Hel Vortex aesthetic, solitary vigil at galaxy's edge",
+      "Volkyri aesthetic, dangerous beauty in service eternal",
+      "Hel Vortex origin, asymmetry as identity",
+      "Volkyri aesthetic, lethal grace embodied",
+      "Hel Vortex aesthetic, warrior beneath dying stars",
+      "Volkyri aesthetic, honor-bound and deadly",
+      "Hel Vortex origin, throne-servant turned free blade"
+    ]
+  }
+}
