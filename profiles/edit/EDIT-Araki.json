@@ -1,0 +1,133 @@
+{
+  "name": "Araki Bizarre Style",
+  "description": "Transform images into dramatic JoJo's Bizarre Adventure aesthetic—Renaissance sculpture meets Italian haute couture meets cinematic theatricality. Extreme contrapposto poses, complementary color clashing, theatrical chiaroscuro lighting.",
+  "version": "1.0.0",
+
+  "templates": [
+    "Using the provided image, transform the subject into {pose_body}. Apply {color_palette} color treatment with {color_philosophy}. {lighting_instruction}. {composition_direction}. {preservation}.",
+
+    "Using the provided image, restyle with dramatic Araki aesthetic: {pose_body}, {hand_narrative}. Change colors to {color_palette} palette—{color_philosophy}. {lighting_instruction}. {fashion_element}. {preservation}.",
+
+    "Transform this image into JoJo-style illustration. Subject takes {pose_body}, {elbow_angle}. {hand_narrative}. Apply {color_palette} with {color_philosophy}. {lighting_instruction}. {composition_direction}. {preservation}.",
+
+    "Using the provided image, apply dramatic fashion editorial transformation: {pose_body}, weight shifted dramatically. {hand_narrative}. Recolor with {color_palette}—{color_philosophy}. {lighting_instruction}. {fashion_element}. {preservation}.",
+
+    "Restyle this image with theatrical Araki energy. {pose_body}, {elbow_angle}. {lighting_instruction}. {composition_direction}. Apply {color_palette} color scheme, {color_philosophy}. {mood_indicator}. {preservation}.",
+
+    "Transform the subject with Renaissance-meets-haute-couture aesthetic: {pose_body}, {hand_narrative}. {lighting_instruction}. {color_palette} palette dominates—{color_philosophy}. {fashion_element}. {composition_direction}. {preservation}."
+  ],
+
+  "pools": {
+    "pose_body": [
+      "extreme contrapposto pose with S-curve spine",
+      "exaggerated S-line through the body with weight entirely on one leg",
+      "dramatic contrapposto with curved center guideline through spine",
+      "Baroque sculpture pose with spine arched impossibly",
+      "theatrical stance with angled hip placement and dramatic weight shift",
+      "fashion editorial pose with curved spine and one leg bent",
+      "dynamic ready stance with body twisted dramatically",
+      "calculated casual pose with curved spine against surface",
+      "commanding low-angle stance with dramatic weight distribution",
+      "deliberate triangular composition pose with distinct weight shift",
+      "imposing figure stance with weight thrown back",
+      "striking asymmetrical pose with hips angled opposite shoulders"
+    ],
+
+    "elbow_angle": [
+      "elbow bent at almost impossible angle framing the face",
+      "elbows at improbable expressive angles",
+      "one arm raised with elbow at unrealistic dramatic angle",
+      "arms positioned with joints appearing almost dislocated",
+      "elbow angle pushed to the point of appearing improbable",
+      "arm bent at exaggerated angle creating dynamic silhouette",
+      "free arm at dramatic angle emphasizing emotional intensity",
+      "both elbows at expressive angles borrowed from fashion photography"
+    ],
+
+    "hand_narrative": [
+      "fingers spread wide like shutter slats",
+      "hand framing face with spread rigid fingers",
+      "fingers pointing with locked intent toward viewer",
+      "hands positioned as narrative devices—spread, expressive",
+      "one hand raised with fingers spread wide",
+      "elegant fingers held between face and viewer",
+      "hands telling story through deliberate gesture",
+      "rigid elegant fingers creating dramatic framing"
+    ],
+
+    "color_palette": [
+      "purple-gold villain energy",
+      "pink-blue protagonist vitality with cherry blossom and sky blue",
+      "orange-black-gold gang identity",
+      "deep violet against golden warmth",
+      "fuchsia pink clashing with ocean blue",
+      "burnt orange against deep cyan",
+      "complementary colors clashing intentionally",
+      "high saturation non-naturalistic",
+      "vivid complementary tension—blue beside pink",
+      "purple-gold brooding menace"
+    ],
+
+    "color_philosophy": [
+      "emotion over reality with saturated complementary clashing",
+      "colors divorced from naturalism serving emotional truth",
+      "Gauguin Synthetism influence with bold non-realistic tones",
+      "tension created through which vivid colors clash",
+      "skin tone as artistic choice not fixed reality",
+      "palette shifted freely for emotional peak",
+      "complementary colors exuding power through tension",
+      "high saturation palette prioritizing impact"
+    ],
+
+    "lighting_instruction": [
+      "Apply theatrical chiaroscuro with face darkened and only eyes illuminated",
+      "Add dramatic rim lighting catching every surface with deep shadows",
+      "Transform lighting to single harsh key light carving deep shadows across features",
+      "Create theatrical spotlight effect with face partially shadowed, eyes gleaming",
+      "Apply mood lighting divorced from realistic sources—serving emotional truth only",
+      "Add strong underlighting creating dramatic upward shadows",
+      "Transform to sharp chiaroscuro with illuminated fierce eyes against darkness",
+      "Apply face-shadow/eye-illumination technique with predatory gleam"
+    ],
+
+    "composition_direction": [
+      "Frame with extreme low angle shot emphasizing imposing height",
+      "Apply Dutch angle composition creating psychological unease",
+      "Use negative space actively to create tension and direct focus",
+      "Frame with worm's eye view making figure tower monumentally",
+      "Compose with theatrical Mie staging over naturalistic positioning",
+      "Apply high angle conveying psychological disadvantage",
+      "Use canted angle creating sense of wrongness",
+      "Frame with deliberate camera placement borrowed from film grammar"
+    ],
+
+    "fashion_element": [
+      "Add maximalist accessories with symbolic motifs",
+      "Include form-fitting silhouette with bold geometric accents",
+      "Layer Italian luxury references—Versace boldness, Dior structure",
+      "Add fashion-forward details with unique symbolic accessories",
+      "Include cropped or mesh elements with high-waisted structure",
+      "Add ornate gold-trimmed elements reflecting inner nature",
+      "Include gender-crossing fashion vocabulary with form-fitting lines",
+      "Layer symbolic costume elements connecting to character identity"
+    ],
+
+    "mood_indicator": [
+      "Heavy atmospheric tension with menacing presence",
+      "Dramatic tension with sharp angles and frozen mid-action moment",
+      "Heroic resolve with determined expression",
+      "Cold fury with imposing villain energy",
+      "Quiet intensity with calculated stillness",
+      "Menacing presence conveyed through composition alone"
+    ],
+
+    "preservation": [
+      "Keep the subject's identity and core features unchanged",
+      "Preserve the original subject's face and recognizable elements",
+      "Maintain the subject's identity while transforming style completely",
+      "Keep everything except pose, color, and lighting unchanged",
+      "Preserve facial features and identity, transform everything else",
+      "Maintain subject recognition while applying full aesthetic transformation"
+    ]
+  }
+}
