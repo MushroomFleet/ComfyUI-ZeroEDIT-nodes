@@ -2,11 +2,6 @@
 
 **Procedural Semantic EDIT Prompt Generation for ComfyUI**
 
-# Part of the DJZ-Zerobytes 0(1) procedural collection
-- https://github.com/MushroomFleet/ComfyUI-DJZ-ZeroPrompt
-- https://github.com/MushroomFleet/ComfyUI-ZeroENH
-- https://github.com/MushroomFleet/ComfyUI-ZeroEDIT-nodes
-
 A deterministic procedural system for generating AI image editing prompts using the ZeroBytes position-is-seed methodology. Perfect for batch editing workflows, A/B testing edit variations, and exploring the edit prompt space systematically.
 
 ## Features
@@ -22,7 +17,7 @@ A deterministic procedural system for generating AI image editing prompts using 
 1. Clone or copy to your ComfyUI custom_nodes directory:
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-repo/DJZ-ZeroEDIT-nodes
+git clone https://github.com/your-repo/DJZ-ZeroEDIT
 ```
 
 2. Install dependencies:
