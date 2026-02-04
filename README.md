@@ -17,7 +17,7 @@ A deterministic procedural system for generating AI image editing prompts using 
 1. Clone or copy to your ComfyUI custom_nodes directory:
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-repo/DJZ-ZeroEDIT
+git clone https://github.com/MushroomFleet/ComfyUI-ZeroEDIT-nodes
 ```
 
 2. Install dependencies:
@@ -213,3 +213,23 @@ MIT License - See LICENSE file
 
 Based on DJZ-ZeroPrompt-V2 architecture.
 Edit prompt patterns derived from Nano Banana Pro 2026 documentation and FLUX.1 Kontext community guidance.
+
+## 📚 Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{comfyui_zeroedit_nodes,
+  title = {ComfyUI-ZeroEDIT-nodes: Procedural Semantic EDIT Prompt Generation for ComfyUI},
+  author = {Drift Johnson},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/ComfyUI-ZeroEDIT-nodes},
+  version = {1.0.0}
+}
+```
+
+### Donate:
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
