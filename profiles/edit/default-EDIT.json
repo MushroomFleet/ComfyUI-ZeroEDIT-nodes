@@ -1,0 +1,184 @@
+{
+  "name": "Default EDIT",
+  "description": "Full edit vocabulary profile for image modification operations - 23+ trillion combinations",
+  "version": "1.1.0",
+  
+  "templates": [
+    "Using the provided image, {edit_operation}. {integration_detail}. {preservation_clause}.",
+    "{edit_operation}. Ensure the change {blending_phrase}. {preservation_clause}.",
+    "Using the provided image, {edit_operation}. The modification should {blending_phrase}, with {lighting_consistency}. {preservation_clause}.",
+    "{edit_operation}. {integration_detail}, ensuring {material_consistency}. {preservation_clause}.",
+    "In this image, {edit_operation}. {integration_detail}. {preservation_clause}, maintaining {style_element}.",
+    "{edit_operation}. Ensure {shadow_detail}. {integration_detail}. {preservation_clause}.",
+    "Using the provided image, {edit_operation}. {blending_phrase}, with {lighting_consistency}. {preservation_clause}."
+  ],
+  
+  "pools": {
+    "edit_operation": [
+      "add a small knitted wizard hat on the subject's head, positioned naturally between the ears and angled slightly",
+      "add a pair of stylish sunglasses to the person, resting naturally on the bridge of their nose",
+      "add a colorful silk scarf draped elegantly around the neck",
+      "add a delicate flower crown resting atop the head",
+      "add a vintage leather messenger bag slung over the shoulder",
+      "add a gold pendant necklace centered on the chest",
+      "add elegant drop earrings to the ears",
+      "add a classic wristwatch on the left wrist",
+      "add a detailed tattoo sleeve on the visible arm",
+      "add subtle natural makeup enhancing the facial features",
+      
+      "remove the person visible in the background, naturally reconstructing the obscured area",
+      "remove the distracting object on the left side of the frame",
+      "remove all text and watermarks from the image",
+      "remove the unwanted shadow falling across the subject",
+      "remove the background clutter behind the main subject",
+      "remove the blemishes and imperfections from the surface",
+      "remove the vehicle partially visible at the edge",
+      "remove the modern elements that break the period aesthetic",
+      
+      "change the background from the current setting to a serene mountain landscape",
+      "change the background to a moody urban nightscape with neon lights",
+      "change the background to a pristine white studio backdrop",
+      "change the background to a lush garden with blooming flowers",
+      "change the background to an elegant interior with warm lighting",
+      "change the sky from clear to dramatic stormy clouds",
+      "change the sky to a vibrant sunset with warm orange and pink tones",
+      "change the time of day from daytime to nighttime with moonlight illumination",
+      "change the time of day from night to golden hour with warm directional sunlight",
+      "change the season from summer to autumn with falling leaves and warm colors",
+      "change the season from spring to winter with snow covering surfaces",
+      "change the weather to rainy with wet reflective surfaces and overcast lighting",
+      
+      "change the subject's hair color to a rich auburn red",
+      "change the subject's hair color to platinum blonde",
+      "change the subject's hair color to deep midnight black",
+      "change the subject's hair style to elegant waves cascading down",
+      "change the subject's eye color to striking emerald green",
+      "change the subject's eye color to deep sapphire blue",
+      
+      "change the dress to deep crimson red while maintaining the same cut and fabric texture",
+      "change the shirt to a navy blue while keeping the same style",
+      "change the outfit to an elegant black evening gown",
+      "change the jacket to rich brown leather with visible stitching",
+      "change the sofa to a vintage brown leather chesterfield with tufted buttons",
+      "change the furniture to mid-century modern style in warm wood tones",
+      "change the wall color to a soft sage green",
+      "change the flooring to polished hardwood",
+      
+      "replace the plain background with an ornate library filled with leather-bound books",
+      "replace the indoor setting with an outdoor beach scene at sunset",
+      "replace the modern furniture with antique Victorian pieces",
+      "replace the daylight with dramatic candlelit atmosphere",
+      
+      "transform the photograph into the artistic style of Vincent van Gogh with swirling impasto brushstrokes",
+      "transform the image into a classic oil painting style with visible brushwork",
+      "transform the photograph into a watercolor painting with soft color bleeds",
+      "transform the image into an anime illustration style with clean lines",
+      "transform the photograph into a noir black and white with high contrast",
+      "transform the image into a vintage film photograph with grain and muted colors",
+      "transform the style to cinematic with anamorphic lens characteristics",
+      "transform the image into a Renaissance painting style with classical composition",
+      
+      "place the logo from the reference image centered on the chest of the shirt",
+      "place the pattern from the reference onto the fabric surface",
+      "place the subject from the second image into this environment",
+      "composite the product onto the clean white background",
+      
+      "turn this rough sketch into a polished photorealistic rendering",
+      "turn this line drawing into a fully colored illustration",
+      "turn this wireframe into a detailed 3D product visualization"
+    ],
+    
+    "integration_detail": [
+      "Position it naturally with realistic proportions that match the scene",
+      "Ensure it appears genuinely integrated rather than overlaid",
+      "Match the existing perspective and scale of surrounding elements",
+      "Apply appropriate depth of field matching the focal plane",
+      "Harmonize the colors with the existing palette of the image",
+      "Integrate seamlessly with the surrounding textures and surfaces",
+      "Blend naturally with the environmental context",
+      "Render with consistent grain and noise matching the source",
+      "Match the compression artifacts and image quality",
+      "Follow the natural contours of the underlying surface",
+      "Respect the occlusion and layering of existing elements",
+      "Align with the visual weight and balance of the composition"
+    ],
+    
+    "blending_phrase": [
+      "blends seamlessly with the surrounding environment",
+      "integrates naturally with the existing scene elements",
+      "harmonizes with the overall color palette and mood",
+      "appears physically plausible in the context",
+      "matches the photographic quality of the original",
+      "follows the same artistic style as the source",
+      "respects the lighting direction and intensity",
+      "maintains visual coherence throughout",
+      "appears naturally placed and proportioned",
+      "complements the existing composition"
+    ],
+    
+    "lighting_consistency": [
+      "lighting that matches the existing scene illumination",
+      "highlights and shadows consistent with the main light source",
+      "color temperature aligned with the ambient environment",
+      "appropriate rim lighting matching any backlight present",
+      "soft diffused lighting matching the overcast conditions",
+      "harsh directional shadows matching the direct sunlight",
+      "warm golden tones consistent with the golden hour",
+      "cool blue ambient light matching the twilight",
+      "dramatic contrast matching the studio setup",
+      "natural window light falling from the correct direction"
+    ],
+    
+    "shadow_detail": [
+      "shadows fall in the correct direction matching the light source",
+      "shadow softness matches the diffusion level of existing shadows",
+      "contact shadows naturally ground the element",
+      "cast shadows have appropriate density and color",
+      "ambient occlusion appears realistic at contact points",
+      "shadow edges match the hardness of other shadows in scene"
+    ],
+    
+    "material_consistency": [
+      "surface texture matches the implied material properties",
+      "reflectivity is consistent with the surface finish",
+      "fabric shows natural folds and creases",
+      "metallic surfaces display proper specular highlights",
+      "matte surfaces absorb light appropriately",
+      "transparent materials show correct refraction",
+      "leather displays appropriate wear and patina",
+      "wood grain follows natural growth patterns",
+      "stone texture has realistic roughness and variation",
+      "glass surfaces show proper environmental reflections"
+    ],
+    
+    "preservation_clause": [
+      "Keep everything else in the image exactly the same",
+      "Preserve the original style, lighting, and composition",
+      "Keep the main subject's position, scale, and pose unchanged",
+      "Ensure all other elements remain completely untouched",
+      "Maintain the exact framing and spatial relationships",
+      "Keep the person's face, expression, and features unchanged",
+      "Preserve all architectural and environmental details",
+      "Keep the background elements intact and unmodified",
+      "Maintain the original mood and overall atmosphere",
+      "Ensure the foreground elements stay exactly in place",
+      "Keep all existing textures and materials unchanged",
+      "Preserve the color grading and tonal range of the image",
+      "Keep all secondary subjects exactly as they appear",
+      "Maintain the original depth layering and spatial arrangement"
+    ],
+    
+    "style_element": [
+      "the overall artistic style of the piece",
+      "the photographic quality and natural grain",
+      "the painterly texture and brushwork",
+      "the illustration linework and coloring style",
+      "the cinematic film aesthetic",
+      "the vintage color treatment",
+      "the modern clean aesthetic",
+      "the dramatic tonal contrast",
+      "the soft atmospheric quality",
+      "the sharp documentary realism"
+    ]
+  }
+}
