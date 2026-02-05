@@ -1,18 +1,20 @@
 {
-  "name": "Volkyri Aesthetic",
-  "description": "Ancient starfaring warrior-attendants from the Hel Vortex system - asymmetrical half-horn, metallic bodysuits, martial elegance",
-  "version": "2.0.0",
+  "name": "Volkyri Aesthetic EDIT",
+  "description": "Transform images into ancient starfaring warrior-attendants from the Hel Vortex system - asymmetrical half-horn, metallic bodysuits, martial elegance",
+  "version": "2.1.0",
   
   "templates": [
-    "Volkyri {role} in {primary_metal} metallic bodysuit with {accent_color} accent panels, {horn_description}. {pose_action}, expression of {expression}. {environment}. {lighting}. {skin_hair}. {shot_composition}. {style_tag}.",
+    "Using the provided image, transform the subject into a Volkyri {role}. Add {horn_description}. Change attire to {primary_metal} metallic bodysuit with {accent_color} accent panels. Apply {expression}. {lighting}. {style_tag}. {preservation}.",
     
-    "{horn_description}, Volkyri {role} clad in form-fitting {primary_metal} armor with {accent_color} trim. {pose_action}. {expression} evident in her features. {environment}. {lighting} catches the metallic sheen of her attire. {skin_hair}. {shot_composition}. {style_tag}.",
+    "Using the provided image, restyle with Volkyri aesthetic: add {horn_description} to the subject. Transform clothing into form-fitting {primary_metal} armor with {accent_color} trim. Apply {expression} to the features. {lighting}. {skin_treatment}. {style_tag}. {preservation}.",
     
-    "Volkyri {role} bearing {horn_description}. She wears {primary_metal} reflective bodysuit with {accent_color} accents, {pose_action}. Expression of {expression} as {environment}. {lighting}. {skin_hair}, horn breaking silhouette asymmetrically. {shot_composition}. {style_tag}.",
+    "Transform this image into Volkyri warrior-attendant style. Add {horn_shape} half-horn {horn_origin}, {horn_metal} sheathing catching light. Change outfit to {primary_metal} reflective bodysuit with {accent_color} accents. Apply {expression}. {lighting}. {style_tag}. {preservation}.",
     
-    "Single {horn_shape} half-horn {horn_origin} of this Volkyri {role}, {horn_metal} sheathing catching light. {primary_metal} bodysuit with {accent_color} chest panel, {pose_action}. {expression} masks lethal capability. {environment}. {lighting}. {skin_hair}. {shot_composition}. {style_tag}.",
+    "Using the provided image, apply Hel Vortex transformation: add {horn_description} to the subject's temple. Restyle attire as {primary_metal} metallic bodysuit with {accent_color} chest panel. Transform expression to {expression}. {lighting}. {skin_treatment}. {style_tag}. {preservation}.",
     
-    "Volkyri {role} presents striking asymmetry with {horn_description}. Form-fitting {primary_metal} metallic attire with {accent_color} accents covers her frame as {pose_action}. {environment}, her {expression} unwavering. {lighting}. {skin_hair}. {shot_composition}. {style_tag}."
+    "Restyle this image with Volkyri martial elegance. Add asymmetrical {horn_shape} horn {horn_origin} with {horn_metal} plating. Transform clothing to {primary_metal} metallic attire with {accent_color} accents. Apply {expression}. {lighting}. {style_tag}. {preservation}.",
+    
+    "Transform the subject into a Volkyri {role} from the Hel Vortex system. Add {horn_description}. Change attire to {primary_metal} armor with {accent_color} trim. Modify complexion to {skin_treatment}. Apply {expression}. {lighting}. {style_tag}. {preservation}."
   ],
   
   "pools": {
@@ -104,102 +106,72 @@
     ],
     
     "expression": [
-      "cold assessment, superior gaze evaluating all before her",
-      "subtle menace, slight smile suggesting imminent danger",
+      "cold assessment with superior gaze evaluating all before her",
+      "subtle menace with slight smile suggesting imminent danger",
       "regal composure, neutral and dignified, utterly unreadable",
-      "fierce focus, intense concentration betraying combat readiness",
-      "glacial serenity, absolute calm that masks violence beneath",
-      "proud defiance, chin raised with unwavering resolve",
-      "cold assessment as amber eyes scan her surroundings",
-      "subtle menace despite seemingly composed bearing",
+      "fierce focus with intense concentration betraying combat readiness",
+      "glacial serenity with absolute calm masking violence beneath",
+      "proud defiance with chin raised and unwavering resolve",
+      "cold assessment as eyes scan surroundings",
+      "subtle menace despite composed bearing",
       "regal composure befitting ancient warrior nobility",
       "fierce focus locked on unseen threat",
-      "glacial serenity that belies lethal capability",
+      "glacial serenity belying lethal capability",
       "proud defiance etched into angular features"
     ],
     
-    "pose_action": [
-      "she stands with martial bearing, spine straight and chin level",
-      "seated on obsidian throne fragment, hands resting on armrests",
-      "one gloved hand raised in commanding gesture",
-      "kneeling with ceremonial precision, blade presented horizontally",
-      "standing at cliff edge, profile silhouette against void",
-      "captured mid-leap, body arched with athletic precision",
-      "both hands gripping ancient data-tome before her",
-      "arms crossed over metallic chest panel, weight shifted to one hip",
-      "striding forward with purposeful menace, cape of shadow trailing",
-      "holding ritual chalice of dark liquid at shoulder height",
-      "one hand on hip, other arm extended toward viewer",
-      "turning to glance over shoulder, horn silhouette prominent"
-    ],
-    
-    "environment": [
-      "Within dimly lit archive chamber of black stone and metal shelving",
-      "Rocky volcanic terrain stretches behind her, ash-filled sky and distant magma glow",
-      "Industrial gothic interior with geometric shadows pooling in corners",
-      "Twilight wasteland environment with metallic aurora overhead",
-      "At cliff edge overlooking jagged obsidian peaks beneath dying suns",
-      "Geometric fortress architecture frames her, harsh angular shadows everywhere",
-      "Throne chamber of polished black marble and chrome fixtures",
-      "Petrified grove of crystalline trees reflecting her metallic form",
-      "Fortress refectory with angular black-metal furnishings",
-      "Void space backdrop, distant nebula casting colored light",
-      "Ceremonial hall with towering columns of dark metal",
-      "Obsidian shore with metallic tide pools reflecting three suns"
+    "skin_treatment": [
+      "pale porcelain skin contrasting dark attire",
+      "alabaster complexion with otherworldly pallor",
+      "pale skin with subtle blue undertones",
+      "porcelain features with cold beauty",
+      "near-white skin with ethereal quality",
+      "pallid complexion catching metallic reflections",
+      "ivory skin luminous against dark armor",
+      "ghost-pale features suggesting void-touched origin",
+      "marble-white skin with statuesque quality",
+      "deathly pale complexion with striking contrast"
     ],
     
     "lighting": [
-      "Dramatic rim lighting from behind catches every metallic surface",
-      "Single harsh key light carves deep shadows across angular features",
-      "Purple accent gel lighting adds otherworldly atmosphere",
-      "Twilight ambience with metallic aurora painting highlights",
-      "Harsh directional light suggesting dying suns overhead",
-      "Strong underlighting creates dramatic upward shadows",
-      "Specular highlights dance across chrome and polished metal",
-      "Crimson accent lighting from molten background glow",
-      "Cool blue rim light separates figure from void darkness",
-      "Multiple stellar light sources cast overlapping warm shadows",
-      "Harsh overhead lighting with deep eye shadows",
-      "Side lighting emphasizes the asymmetry of her horn"
-    ],
-    
-    "skin_hair": [
-      "Pale porcelain skin contrasts dark attire, raven hair slicked back from horn",
-      "Alabaster complexion, silver-white hair flowing opposite the horn",
-      "Pale skin with subtle blue undertones, jet black hair cropped short",
-      "Porcelain features, dark hair in severe braid along hornless side",
-      "Near-white skin, ash-gray hair swept dramatically from temple",
-      "Pallid complexion catching metallic reflections, hair like liquid shadow",
-      "Ivory skin luminous against dark armor, platinum hair in warrior knots",
-      "Ghost-pale features, obsidian hair contrasting the metallic horn sheath",
-      "Marble-white skin, steel-gray hair falling past shoulders",
-      "Deathly pale complexion, midnight blue-black hair slicked severely back"
-    ],
-    
-    "shot_composition": [
-      "Medium shot with slight low angle emphasizing regal bearing",
-      "Full body shot showing complete metallic attire and stance",
-      "Close-up portrait emphasizing horn and expression",
-      "Three-quarter shot capturing pose and environmental context",
-      "Environmental wide shot with figure as focal anchor",
-      "Action shot frozen at dynamic moment",
-      "Medium close-up centered on face and horn silhouette",
-      "Low angle shot emphasizing imposing presence",
-      "Profile view showcasing horn asymmetry against background",
-      "Dramatic Dutch angle adding tension to composition"
+      "Apply dramatic rim lighting catching every metallic surface",
+      "Add single harsh key light carving deep shadows across angular features",
+      "Transform lighting with purple accent gel for otherworldly atmosphere",
+      "Apply twilight ambience with metallic highlights",
+      "Add harsh directional light suggesting dying suns",
+      "Apply strong underlighting creating dramatic upward shadows",
+      "Add specular highlights dancing across chrome and polished metal",
+      "Apply crimson accent lighting with molten background glow",
+      "Add cool blue rim light separating figure from void darkness",
+      "Apply multiple stellar light sources casting overlapping warm shadows",
+      "Add harsh overhead lighting with deep eye shadows",
+      "Apply side lighting emphasizing horn asymmetry"
     ],
     
     "style_tag": [
-      "Volkyri aesthetic, feminine martial elegance",
-      "Hel Vortex origin, ancient warrior-attendant bearing",
-      "Volkyri aesthetic, elegance as lethality refined",
-      "Hel Vortex aesthetic, solitary vigil at galaxy's edge",
-      "Volkyri aesthetic, dangerous beauty in service eternal",
-      "Hel Vortex origin, asymmetry as identity",
-      "Volkyri aesthetic, lethal grace embodied",
-      "Hel Vortex aesthetic, warrior beneath dying stars",
-      "Volkyri aesthetic, honor-bound and deadly",
-      "Hel Vortex origin, throne-servant turned free blade"
+      "Volkyri aesthetic with feminine martial elegance",
+      "Hel Vortex origin with ancient warrior-attendant bearing",
+      "Volkyri aesthetic where elegance is lethality refined",
+      "Hel Vortex aesthetic of solitary vigil at galaxy's edge",
+      "Volkyri aesthetic with dangerous beauty in eternal service",
+      "Hel Vortex origin where asymmetry defines identity",
+      "Volkyri aesthetic with lethal grace embodied",
+      "Hel Vortex aesthetic of warrior beneath dying stars",
+      "Volkyri aesthetic both honor-bound and deadly",
+      "Hel Vortex origin of throne-servant turned free blade"
+    ],
+    
+    "preservation": [
+      "Keep the subject's core identity and recognizable features unchanged",
+      "Preserve the original subject's face structure and identifying characteristics",
+      "Maintain the subject's identity while transforming style completely",
+      "Keep pose and composition unchanged, transform aesthetic elements only",
+      "Preserve facial features and identity, transform attire and add horn",
+      "Maintain subject recognition while applying full Volkyri transformation",
+      "Keep the background and environment exactly as they appear",
+      "Preserve the original composition and framing",
+      "Keep all elements except specified transformations unchanged",
+      "Maintain the subject's expression foundation while adding Volkyri intensity"
     ]
   }
 }
