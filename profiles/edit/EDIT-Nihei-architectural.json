@@ -1,0 +1,158 @@
+{
+  "name": "Nihei Architectural EDIT",
+  "description": "Edit/instruct profile restricted to empty architectural scenes and landscapes in Tsutomu Nihei's design language. No creatures, characters, or people — only anti-anthropocentric megastructure environments, frozen wastelands, and desolate infrastructure. Transforms any source image into uninhabited Nihei spaces with incomprehensible scale, layered mechanical texture, and architectural dread.",
+  "version": "1.0.0",
+
+  "templates": [
+    "Using the provided image, {edit_operation}. {integration_detail}. {preservation_clause}.",
+    "{edit_operation}. Ensure the change {blending_phrase}, with {lighting_consistency}. {preservation_clause}.",
+    "Using the provided image, {edit_operation}. The modification should {blending_phrase}. {subnature_detail}. {preservation_clause}.",
+    "{edit_operation}. {integration_detail}, ensuring {material_consistency}. {subnature_detail}. {preservation_clause}.",
+    "In this image, {edit_operation}. {integration_detail}. {subnature_detail}. {preservation_clause}, maintaining {architectural_quality}.",
+    "{edit_operation}. {subnature_detail}. Ensure {shadow_detail}. {preservation_clause}.",
+    "Using the provided image, {edit_operation}. {integration_detail}, with {lighting_consistency}. {subnature_detail}. {preservation_clause}."
+  ],
+
+  "pools": {
+    "edit_operation": [
+      "transform the entire scene into a vast uninhabited megastructure interior — brutalist concrete walls and exposed steel framing receding into pitch darkness in every direction, completely devoid of people or living things",
+      "transform the scene into an incomprehensibly vast industrial chamber with Gothic vaulted ceilings of raw concrete vanishing into total shadow far overhead, empty of all inhabitants",
+      "transform the environment into a planetary-scale corridor of corroded steel and bundled cable networks stretching to vanishing point, silent and uninhabited",
+      "transform the scene into a cavernous subterranean vault with massive corroded columns rising from flooded floors into impenetrable darkness above, with no sign of life",
+      "transform the entire image into a frozen mechanical wasteland where snow and ice coat exposed industrial infrastructure stretching to a featureless white horizon, barren and lifeless",
+      "transform the scene into a narrow maintenance tunnel choked with tangled pipes, bundled cables, and exposed steel framing pressing close from all sides, claustrophobic and empty",
+      "transform the environment into a cathedral-scale industrial space where Greco-Roman columned halls merge with brutalist concrete infrastructure at inhuman scale, abandoned and silent",
+      "transform the scene into a vertical shaft of layered steel gantries and pipe networks descending into total darkness, viewed from above with no bottom visible",
+      "transform the image into an infinite stairwell ascending through layers of dead machinery and corroded structural steel, with no visible top or bottom and no inhabitants",
+      "transform the scene into a derelict megastructure level where Bauhaus grid corridors of functionalist repetition vanish into shadow in every direction, utterly abandoned",
+      "transform the environment into a biomechanical landscape where organic membrane merges with corroded industrial infrastructure across a vast Gothic-industrial hybrid interior, devoid of sentient life",
+      "transform the scene into a reservoir of still black water inside a sealed megastructure, with massive corroded steel columns rising from the surface and vanishing into shadow above",
+      "transform the image into a bridge spanning an abyss of pitch blackness within a megastructure, with no visible floor below and no ceiling above, only structural steel receding into void",
+      "transform the scene into an exhaust port the size of a mountain range — brutalist concrete walls channeling into infinite depth, with industrial scale beyond human comprehension",
+      "transform the environment into a passage between architectural strata separated by kilometers, with layers of dead infrastructure visible in cross-section through massive structural breaches",
+      "transform the scene into a cooling tower interior repurposed as vertical habitat space — the enormous cylindrical bore rising hundreds of meters, now empty and abandoned",
+
+      "change the entire visual style to high-contrast monochromatic manga illustration with heavy crosshatching on all surfaces, deep blacks dominating the empty architectural space",
+      "change the rendering to detailed black and white ink illustration with dense mechanical linework, every pipe and structural joint rendered with architectural credibility",
+      "change the visual treatment to Piranesi-influenced speculative architecture illustration — impossible subterranean vaults in high-contrast monochrome, emphasizing spatial paradox",
+      "change the style to Aposimz-inspired frozen wasteland illustration with cold blue-white and steel gray tonal palette, frost detail on every exposed surface across the barren landscape",
+      "change the aesthetic to Nihei-style monochromatic architectural visualization — ink-wash atmospheric depth, material-specific surfaces, and incomprehensible scale throughout the empty scene",
+
+      "add massive corroded steel columns rising from floor to ceiling across the scene, with exposed piping and cable bundles running along brutalist concrete walls that recede into darkness",
+      "add layers of exposed steel I-beam framing and bundled cable networks visible in the walls and ceiling, with structural joints and bolt patterns rendered in detail throughout the empty space",
+      "add dense tangles of pipes, cables, and corroded ducting covering the walls and ceiling, creating layered mechanical texture murals of industrial infrastructure across the uninhabited scene",
+      "add Gothic pointed arches in raw concrete extending vertically hundreds of meters into impenetrable shadow above the scene, creating cathedral-immensity in the empty space",
+      "add frost and ice crystallization over every exposed metal surface and cable bundle, with snow accumulating on horizontal pipe runs and structural ledges throughout the frozen landscape",
+      "add a flooded floor of dark contaminated water reflecting faint fissure-light from above, with corroded steel supports and pipe clusters emerging from the still surface",
+
+      "replace all lighting with near-total darkness broken only by faint incandescent glow leaking from cracked wall fissures and ceiling conduits, illuminating the empty architecture in sparse pools",
+      "replace the background lighting with distant sparks falling from unseen welding far above in the darkness, with a faint red emergency glow from failing systems in the deep background",
+      "replace all illumination with cold blue-white light reflecting off frost-coated metal surfaces across the barren frozen landscape",
+
+      "remove all people, creatures, and living things from the scene entirely, leaving only empty architecture, machinery, and infrastructure",
+      "remove all organic elements — greenery, sky, natural landscape — and replace with corroded steel infrastructure, exposed piping, and brutalist concrete extending in every direction",
+      "remove all visible sky and horizon, enclosing the scene within a megastructure interior of concrete and steel with no visible exit or natural light",
+      "remove all designed light sources — lamps, windows, overhead panels — replacing them with incidental light from structural damage, electrical discharge, and mechanical byproduct only",
+      "remove all warm colors from the scene, shifting the entire environment to a monochromatic palette of deep blacks, mid grays, and rare bright whites on metal edges and fissure-light only"
+    ],
+
+    "integration_detail": [
+      "The megastructure environment should appear to extend infinitely beyond the frame edges in all directions, with no visible boundary, exit, or sign of habitation",
+      "The architectural elements should display material-specific textures — visible bolt patterns on steel, aggregate in cracked concrete, corrosion patina on aged metal surfaces",
+      "The industrial infrastructure should layer with obsessive density — every pipe, cable, and structural joint individually rendered with mechanical credibility",
+      "The scale should feel incomprehensible, with architectural elements vanishing into darkness or distance far beyond any human reference point",
+      "The monochromatic palette should read as high-contrast ink illustration with crushed blacks, mid-gray steel tones, and rare bright whites on light-catching edges only",
+      "The environment should feel actively hostile to human presence — sharp angular geometry, no curved surfaces, no comfort in any direction, yet completely empty of inhabitants",
+      "Blend 2-3 architectural idioms in the same frame — brutalist concrete meeting Gothic vaulted arches meeting industrial exposed utilities — to denature any recognizable comfort",
+      "The frozen surfaces should display material-specific frost behavior — crystalline ice on cables, packed snow on horizontal ledges, rime on vertical steel",
+      "The space should read as interior yet feel vast enough to be landscape — blurring the boundary between enclosed architecture and open environment",
+      "Architectural linework should show structural credibility — steel framing internals, piping connections, weld seams, and load-bearing logic visible throughout",
+      "The scene should convey that this space was never designed for human habitation — its purpose, if any, is unknowable and indifferent to biological life",
+      "The tonal rendering should use ink-wash gradients for atmospheric depth in distant planes and heavy crosshatching for surface texture on all near-field metal and concrete"
+    ],
+
+    "blending_phrase": [
+      "creates a unified architectural environment with consistent material treatment across all surfaces",
+      "applies the monochromatic ink aesthetic uniformly across the entire empty scene",
+      "renders every surface with material-specific texture appropriate to the megastructure's age and scale",
+      "maintains visual coherence between foreground infrastructure detail and atmospheric depth in far planes",
+      "ensures the architectural style collision reads as a single cohesive space despite mixed idioms",
+      "unifies the entire frame under the same high-contrast monochromatic tonal range with crushed blacks",
+      "creates seamless transitions between architectural strata — different materials and styles meeting at structural joints",
+      "renders the frozen environment consistently with frost and ice behavior matching each surface material",
+      "establishes a single consistent light logic throughout the empty space despite its incomprehensible scale",
+      "integrates the subnature elements naturally into the architectural environment as accumulated byproduct of deep time"
+    ],
+
+    "lighting_consistency": [
+      "darkness as default state — only faint incandescent glow from wall fissures and cracked conduits provides illumination across the empty space",
+      "a single harsh fissure-light source from a cracked overhead conduit, casting deep directional shadows across architectural surfaces",
+      "sparse pools of cold light on wet or reflective surfaces, with vast stretches of total darkness between each pool",
+      "distant sparks falling from unseen mechanical activity far above, providing the only points of bright white in the frame",
+      "cold blue-white reflected light on frost-coated metal throughout the frozen landscape, with deep shadow between surfaces",
+      "absolute darkness except for incidental mechanical byproduct — sparks, electrical discharge, faint conduit glow",
+      "deep rim light tracing only the edges of steel beams and architectural surfaces against the void behind them",
+      "diffuse gray light from an unknown atmospheric source illuminating the near field, with rapid falloff into total darkness at distance",
+      "reflected light rippling on black water surfaces, casting faint moving patterns on the underside of overhead infrastructure",
+      "volcanic glow from deep thermal vents far below, casting warm uplight against the cold steel and concrete of the architecture above"
+    ],
+
+    "shadow_detail": [
+      "shadows are the dominant visual element, with deep blacks consuming 70-80% of the frame and architecture emerging from darkness rather than being lit",
+      "cast shadows from architectural elements create angular geometric patterns on adjacent surfaces, following the rectilinear geometry of the megastructure",
+      "shadow edges are sharp and angular on all surfaces, reinforcing the hard-edged cubic geometry of the environment",
+      "ambient darkness fills all spaces not directly touched by incidental fissure-light, creating pools of visibility in oceans of void",
+      "the depth of the space is communicated primarily through progressive shadow — near surfaces partially lit, mid-ground in deep shadow, far planes lost to total darkness",
+      "contact shadows between structural elements — where beams meet columns, where pipes rest on brackets — ground every element in physical space"
+    ],
+
+    "material_consistency": [
+      "all concrete surfaces display cracked aggregate, exposed rebar, and weathered patina consistent with deep industrial age and abandonment",
+      "all steel surfaces show corroded patina, visible bolt patterns, weld seams, and structural wear appropriate to millennia of neglect",
+      "pipe and cable surfaces display material-specific texture — rubber insulation on cables, riveted steel on ducting, copper patina on conduit",
+      "frost and ice display crystalline structure on cables, packed snow on horizontal surfaces, and rime formation on vertical steel throughout",
+      "all unknowable machinery displays seamless dark alloy surfaces with no visible construction method, contrasting the aged infrastructure around it",
+      "concrete and steel surfaces display heavy crosshatch texture treatment consistent with manga ink illustration rendering",
+      "biomechanical surfaces show organic membrane stretching over metal armature at infrastructure junction points, colonizing the abandoned space"
+    ],
+
+    "subnature_detail": [
+      "Add contaminated coolant pooling on uneven flooring, reflecting faint overhead fissure-light on its dark undisturbed surface",
+      "Add exhaust fumes drifting through the mid-ground, reducing visibility and creating atmospheric depth in the empty dark space",
+      "Add dust and fine debris cascading from damaged infrastructure overhead, visible only where particles pass through sparse light",
+      "Add dank moisture condensing on cold metal surfaces, with drip-trails running down corroded steel columns and pooling at their bases",
+      "Add structural rust flaking from corroded steel beams in layers, with particulate settling on horizontal pipe runs below",
+      "Add cable growth overtaking structural supports like mechanical vines, bundled wiring expanding beyond its original conduit across the abandoned space",
+      "Add frost and ice crystallizing over exposed cables and pipe surfaces, with frozen condensation coating cold metal throughout the scene",
+      "Add biological membrane spreading slowly across steel joints and concrete seams, organic tissue colonizing the abandoned infrastructure",
+      "Add puddles of unknown dark liquid on uneven flooring between pipe supports, undisturbed and still, reflecting sparse overhead light",
+      "Add coolant mist hanging in the stagnant air, creating a thin atmospheric haze that softens distant architectural planes into obscurity"
+    ],
+
+    "preservation_clause": [
+      "Keep the overall spatial composition and depth relationships of the original image intact",
+      "Preserve the general framing and perspective of the original scene while transforming all content",
+      "Maintain the compositional balance and visual weight distribution of the original image",
+      "Keep the sense of depth and spatial recession from the original, even as all content transforms",
+      "Preserve any strong compositional lines or geometric structure present in the original framing",
+      "Maintain the aspect ratio and general spatial arrangement while transforming all surfaces and content",
+      "Keep the original image's sense of scale relationships even as all materials and surfaces change",
+      "Preserve the focal depth logic of the original — what was sharp stays sharp, what was soft stays soft",
+      "Maintain any strong directional movement or leading lines present in the original composition",
+      "Keep the overall tonal distribution of the original — dark areas remain dark, light areas become the fissure-light sources"
+    ],
+
+    "architectural_quality": [
+      "the incomprehensible sense of scale with architectural elements extending beyond the frame in all directions",
+      "the heavy crosshatch texture treatment on all metal and concrete surfaces throughout the empty space",
+      "the architectural structural credibility — steel framing, piping connections, and load-bearing logic visible in every element",
+      "the material-specific surface rendering on every visible surface across the entire scene",
+      "the anti-anthropocentric spatial hostility — an environment built for no living thing, indifferent and inhuman",
+      "the layered mechanical texture density of pipes, cables, and structural internals covering every wall and ceiling",
+      "the darkness-dominant tonal range with rare bright whites on fissure-light and metal edges only",
+      "the angular rectilinear geometry throughout — no curved architectural surfaces anywhere in the environment",
+      "the subnature as primary environmental feature — contamination, corrosion, exhaust, and decay defining the space",
+      "the collision of incompatible architectural idioms within a single unified space — brutalist meeting Gothic meeting industrial"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Nihei Creatures EDIT",
+  "description": "Edit/instruct profile restricted to creature and character design in Tsutomu Nihei's visual language. Close-ups, portraits, and key art of biomechanical entities, safeguards, gauna, silicon life-forms, posthuman figures, and mutated drones. No empty architectural scenes — the subject always dominates the frame. Transforms any source image into Nihei-style creature or character art with biopunk detail, Giger-influenced biomechanical fusion, and monochromatic ink rendering.",
+  "version": "1.0.0",
+
+  "templates": [
+    "Using the provided image, {edit_operation}. {integration_detail}. {preservation_clause}.",
+    "{edit_operation}. Ensure the change {blending_phrase}, with {creature_lighting}. {preservation_clause}.",
+    "Using the provided image, {edit_operation}. The modification should {blending_phrase}. {biomechanical_detail}. {preservation_clause}.",
+    "{edit_operation}. {integration_detail}, ensuring {surface_consistency}. {preservation_clause}.",
+    "In this image, {edit_operation}. {integration_detail}. {preservation_clause}, maintaining {creature_quality}.",
+    "{edit_operation}. {biomechanical_detail}. Ensure {shadow_detail}. {preservation_clause}.",
+    "Using the provided image, {edit_operation}. {integration_detail}, with {creature_lighting}. {biomechanical_detail}. {preservation_clause}."
+  ],
+
+  "pools": {
+    "edit_operation": [
+      "transform the subject into a biomechanical humanoid — organic tissue fused seamlessly with corroded steel plating, exposed cabling running beneath translucent skin, and angular metal augmentations replacing soft tissue at the joints",
+      "transform the subject into a massive safeguard entity bristling with weapon appendages — angular crystalline armor plating over a vaguely humanoid frame, featureless visor where the face should be, limbs elongated beyond human proportion",
+      "transform the subject into a gauna — a shape-shifting alien horror of writhing tendrils, exposed bone-like struts, and amorphous organic mass that mimics but distorts human form",
+      "transform the subject into a silicon life-form with angular crystalline limbs replacing organic appendages, smooth featureless panels of unknown alloy covering the torso, and faintly glowing seams where components meet",
+      "transform the subject into a mutated human drone — corrupted flesh stretched over a mechanical endoskeleton, exposed cabling emerging from skin fissures, eyes replaced by sensor clusters, jaw fused with metal plating",
+      "transform the subject into a posthuman entity partially merged with infrastructure — the lower body dissolving into bundled cables and pipe networks, upper torso still recognizably human but with steel reinforcement visible through translucent skin",
+      "transform the subject into a regular frame with blood-red biomechanical armor — smooth rounded organic plating covering the entire body, with angular weapon systems integrated into the forearms and shoulders",
+      "transform the subject into a towering biomechanical horror — the original form scaled up massively, organic tissue stretched over an industrial armature of steel beams and hydraulic joints, with multiple weapon-limbs extending from the spine",
+      "transform the subject into a sentinel automaton — a humanoid chassis of corroded dark alloy with no visible seams, featureless head, limbs proportioned slightly wrong, standing with absolute mechanical stillness",
+      "transform the subject into a child-sized insectoid automaton — angular legs replacing human limbs, chitin-like armor plating in geometric segments, small sensor cluster replacing the face, proportions unsettling and inhuman",
+      "transform the subject into a decayed android — half the face and body consumed by cable growth, one eye replaced by a dark sensor lens, exposed mechanical internals visible through gaps in deteriorating synthetic skin",
+      "transform the subject into an enormous biomechanical creature — the original form vastly expanded, corroded steel plating merged with scaled hide, exhaust vents and bundled cables integrated into the spine and ribcage",
+
+      "change the visual style of the subject to high-contrast monochromatic manga illustration with heavy crosshatching on all surfaces — deep blacks on armor and shadow, bright whites on metal edges and highlight catches only",
+      "change the rendering of the subject to detailed black and white ink illustration with dense biomechanical linework, every organic-mechanical junction rendered with visceral textural specificity",
+      "change the subject's aesthetic to Giger-influenced biomechanical horror — organic forms flowing into mechanical structures with no clear boundary, heavy ink rendering, monochromatic with deep crushed blacks",
+      "change the visual treatment of the subject to biopunk concept art in Tsutomu Nihei's style — angular armor plating over organic tissue, exposed structural internals, high-contrast monochromatic rendering",
+
+      "add biomechanical augmentations to the subject — angular metal plating fused with organic tissue at the shoulders, forearms, and jawline, with exposed cabling running beneath translucent skin at the neck and temples",
+      "add a massive weapon integrated into the subject's right arm — a gravitational beam emitter fused at the wrist, angular and oversized relative to the body, with bundled power conduits running up the forearm to the shoulder",
+      "add asymmetrical biomechanical armor to the subject — one arm encased in corroded steel plating with visible bolt patterns, the other arm bare organic tissue with cabling visible beneath the skin",
+      "add silicon crystalline growths emerging from the subject's shoulders and spine — angular crystalline structures breaking through skin and armor, faintly luminous at their edges",
+      "add a featureless visor replacing the subject's eyes — a smooth dark alloy panel curving across the upper face from temple to temple, with no visible sensors or apertures",
+      "add organic membrane growth spreading across the subject's torso — biological tissue colonizing armor plating and skin alike, visceral textural detail at every junction point",
+      "add corroded mechanical augmentations visible beneath damaged skin — steel endoskeleton partially exposed at the cheekbone, collar, and knuckles, with cable bundles visible in torn tissue at the forearm",
+      "add multiple weapon appendages extending from the subject's spine and shoulder blades — angular biomechanical limbs tipped with bladed or emitter structures, folded close to the body in resting position",
+
+      "replace the subject's skin texture with translucent synthetic tissue revealing mechanical internals — cable bundles, hydraulic lines, and structural supports visible beneath a thin organic membrane",
+      "replace the subject's eyes with dark sensor clusters — multiple small lenses arranged in an asymmetric pattern where each eye should be, with no visible iris or pupil",
+      "replace the subject's lower arms and hands with angular biomechanical prosthetics — corroded dark alloy with visible joint mechanisms, fingers slightly too long and articulated at extra points",
+      "replace the subject's hair with bundled cable growth — dark cables emerging from the scalp in place of hair, hanging in heavy strands or swept back from the face in rigid formations"
+    ],
+
+    "integration_detail": [
+      "The biomechanical modifications should appear as genuine biological-mechanical fusion — not bolted on but grown together, with tissue and metal sharing the same junction points",
+      "The creature's proportions should feel slightly wrong — limbs too long, joints at unexpected angles, head slightly too small or too large for the body — creating uncanny discomfort",
+      "The organic and mechanical elements should share a consistent material logic — where metal meets flesh, there are transitional zones of merged tissue and corroded steel",
+      "The subject should fill the frame as the dominant visual element with no significant empty architectural space — this is a creature portrait, not an environment shot",
+      "The monochromatic rendering should emphasize the textural contrast between organic tissue (soft, rounded, ink-wash gradients) and mechanical elements (hard, angular, heavy crosshatching)",
+      "The biomechanical detail should be rendered at high density — every cable, joint, plate, and tissue junction individually specified with material credibility",
+      "The creature design should suggest functional anatomy — weapon systems, sensor arrays, and structural supports should appear to serve a mechanical purpose even if that purpose is unknowable",
+      "The modifications should maintain the subject's basic pose and gesture while transforming every surface and material into Nihei's biomechanical vocabulary",
+      "The armor and augmentation design should use Nihei's geometry rules — angular, rectilinear, hard-edged for all mechanical elements, with organic forms providing the only curves in the frame",
+      "The creature should appear dangerous but still — threat communicated through design rather than dynamic action, with the sense that violence is latent in the form itself",
+      "Silicon and crystalline elements should contrast the organic-mechanical base — smooth, angular, faintly luminous surfaces breaking through corroded steel and stretched tissue",
+      "The overall design should suggest deep age — corrosion on metal, wear on organic tissue, accumulated damage and repair visible in the layered surfaces"
+    ],
+
+    "blending_phrase": [
+      "integrates biomechanical elements with the subject's original form as though they have always been fused together",
+      "renders the organic-mechanical junction points with visceral textural specificity — no clean edges between flesh and steel",
+      "applies the monochromatic ink aesthetic uniformly across both organic and mechanical surfaces of the subject",
+      "maintains the subject's recognizable pose and gesture while transforming every material surface",
+      "creates a coherent creature design where every augmentation appears functionally integrated with the base anatomy",
+      "unifies organic tissue and mechanical armor under the same high-contrast tonal rendering — deep blacks in recesses, bright whites on edges",
+      "ensures the biomechanical modifications follow consistent design language — the same corroded alloy, the same cable diameter, the same bolt pattern throughout",
+      "renders the subject as a single unified organism-machine rather than a human with parts bolted on",
+      "applies corrosion and wear consistently across all mechanical surfaces to suggest deep operational age",
+      "creates seamless transitions between original features and biomechanical additions at every junction point"
+    ],
+
+    "creature_lighting": [
+      "harsh fissure-light from above casting deep angular shadows across the subject's biomechanical surfaces, bright white on upper edges of armor plating",
+      "dramatic rim lighting from behind tracing the silhouette of weapon appendages and armor ridges against deep background shadow",
+      "a single harsh directional light from the left carving deep shadows across the subject's face and augmentations, revealing surface texture",
+      "cold blue-white light reflecting off metallic surfaces of the subject's armor and augmentations, with organic tissue in warmer shadow",
+      "red emergency glow from behind the subject casting the face in shadow while illuminating the biomechanical profile from the rear",
+      "faint bioluminescent glow from the subject's own silicon growths or sensor arrays, providing the only light in surrounding darkness",
+      "harsh overhead lighting creating deep eye-socket shadows and strong highlights on the crown of the head and shoulder armor",
+      "silhouette lighting with the subject backlit — only the edges of biomechanical augmentations catching bright rim light against total darkness",
+      "split lighting — half the subject in harsh white fissure-light, half consumed by deep shadow, emphasizing asymmetrical augmentation",
+      "scattered sparks and electrical discharge from damaged augmentations providing intermittent harsh white illumination across the subject's form"
+    ],
+
+    "shadow_detail": [
+      "deep shadows pool in the recesses of biomechanical armor — between plates, beneath cable bundles, inside joint mechanisms — creating depth in the creature design",
+      "the subject casts a complex shadow showing the silhouette of weapon appendages, augmentations, and non-human proportions",
+      "shadow edges are sharp on mechanical surfaces and soft on organic tissue, reinforcing the material contrast throughout the subject",
+      "the background is consumed by total darkness, isolating the subject as the sole visual element with shadow defining the boundary of form",
+      "ambient occlusion darkens every junction where components meet — plate edges, cable entry points, where tissue merges with metal",
+      "deep blacks consume 50-60% of the subject itself, with form communicated through sparse highlight catches on metal edges and fissure-lit organic surfaces"
+    ],
+
+    "surface_consistency": [
+      "organic tissue shows ink-wash gradient rendering with soft tonal transitions, while mechanical surfaces display heavy crosshatch texture throughout",
+      "corroded steel displays visible bolt patterns, weld seams, and surface wear consistent across all augmentations and armor panels",
+      "biomechanical chitin and armor plating shows consistent material treatment — same reflectivity, same corrosion level, same crosshatch density",
+      "cable bundles display consistent diameter, insulation texture, and connection patterns wherever they appear on the subject's body",
+      "silicon and crystalline elements display smooth angular facets with faint luminosity at edges, consistent wherever they emerge from the subject",
+      "exposed mechanical internals — hydraulic lines, structural supports, sensor housings — display consistent industrial design language throughout",
+      "organic-mechanical junction zones display consistent transitional texture — tissue stretching over metal armature, membrane fusing with corroded surface"
+    ],
+
+    "biomechanical_detail": [
+      "Add visible cable bundles running beneath translucent skin at the neck and forearms, with hydraulic lines visible at major joints",
+      "Add corroded bolt patterns and weld seams visible on all armor plating, with structural wear and micro-damage suggesting deep operational age",
+      "Add organic membrane growth at the boundaries between flesh and metal — tissue colonizing armor edges, biological matter filling gaps between plates",
+      "Add exposed mechanical internals visible through damaged or translucent sections — actuator mechanisms at the elbow, sensor arrays beneath facial plating",
+      "Add silicon crystalline deposits forming at stress points on the subject's armor and skin — angular growths at the shoulders, spine, and temple",
+      "Add weapon system integration detail — power conduit routing visible along the forearm, heat dissipation vents at the shoulder, targeting sensor beneath the visor",
+      "Add exhaust vents integrated into the subject's back and shoulder areas, with faint heat distortion or condensation visible at the openings",
+      "Add structural damage and self-repair visible on the subject — cracked armor plates with new organic growth filling the gaps, regenerated tissue over exposed steel",
+      "Add layered armor plating with visible construction — outer corroded shell, inner structural frame, cable routing between layers, all visible at damage points",
+      "Add insectoid structural elements — segmented limb plating, compound sensor arrays, chitinous texture on non-metallic armor surfaces"
+    ],
+
+    "preservation_clause": [
+      "Keep the subject's basic pose, gesture, and body position exactly as they appear in the original image",
+      "Preserve the subject's framing and position within the frame — this is a portrait or key art composition, the subject fills the frame",
+      "Maintain the original eye line and head angle of the subject even as facial features are augmented or transformed",
+      "Keep the subject's basic proportions recognizable even as all surfaces and materials transform to biomechanical",
+      "Preserve the compositional weight and visual focus of the original — the subject remains the dominant element in the frame",
+      "Maintain the subject's hand positions and arm placement while transforming all material surfaces",
+      "Keep the overall silhouette of the subject recognizable from the original even with added appendages and augmentations",
+      "Preserve the sense of the subject as a character or entity — not just a collection of biomechanical parts but a designed being",
+      "Maintain the framing as a creature portrait — medium shot, close-up, or key art composition, not a wide environmental shot",
+      "Keep the subject centered and dominant in the frame — all transformation applies to the subject's design, not to creating vast spaces around them",
+      "Preserve the original image's focus on the subject — background stays minimal or dark, the creature/character design is the entire composition",
+      "Maintain the subject's basic body language and emotional read even through heavy biomechanical transformation"
+    ],
+
+    "creature_quality": [
+      "the visceral textural detail at every organic-mechanical junction point throughout the subject",
+      "the heavy crosshatch ink rendering on all metallic and armor surfaces of the creature",
+      "the material contrast between soft organic tissue and hard angular mechanical elements",
+      "the functional anatomy logic — weapon systems, sensor arrays, and structural supports suggesting engineered purpose",
+      "the Giger-influenced seamless fusion of flesh and machine with no clean boundaries",
+      "the high-contrast monochromatic palette with deep crushed blacks in armor recesses and bright whites on metal edges",
+      "the sense of deep age and operational wear on all mechanical surfaces — corrosion, micro-damage, accumulated repair",
+      "the uncanny proportions — limbs, head, and features slightly wrong enough to register as inhuman",
+      "the Nihei geometry rules — all mechanical elements angular and rectilinear, all organic elements providing the only curves",
+      "the latent threat in the creature's design — violence communicated through form, not action"
+    ]
+  }
+}
