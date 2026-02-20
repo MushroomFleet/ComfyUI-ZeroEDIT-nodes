@@ -1,0 +1,140 @@
+{
+  "name": "DragonsHeaven DXH Style",
+  "description": "Procedural edit prompts transforming images into the dxh style — Moebius-inspired cel animation with organic-mechanical hybrid forms, post-apocalyptic environments, and hand-inked linework with rust-and-cerulean palettes.",
+  "version": "1.0.0",
+  "templates": [
+    "Using the provided image, {edit_operation}. Apply {linework_style} and {shading_method}. {palette_instruction}. Preserve {preservation}.",
+    "{edit_operation} in dxh style. Add {surface_detail} to mechanical forms. {lighting_instruction}. Ensure {integration}. Keep {preservation} intact.",
+    "Transform the image by {edit_operation}. Layer {environment_element} into the background. {linework_style}, {shading_method}. {palette_instruction}. {preservation}.",
+    "In this image, {edit_operation}. Apply {surface_detail} and {atmosphere}. Use {linework_style}. {lighting_instruction}. {palette_instruction}.",
+    "Re-render using dxh style: {edit_operation}. Background becomes {environment_element} under {sky_condition}. {shading_method}, {linework_style}. Preserve {preservation}.",
+    "Apply dxh cel animation aesthetic: {edit_operation}. {surface_detail} on all mechanical surfaces. {atmosphere}. {linework_style}. {palette_instruction}. {integration}.",
+    "Edit the image to dxh style — {edit_operation}. {lighting_instruction} with {atmosphere}. {shading_method}. {palette_instruction}. {preservation}.",
+    "Convert to dxh visual language: {edit_operation}. {environment_element} in background. {surface_detail}, {linework_style}. {palette_instruction}. Ensure {integration}."
+  ],
+  "pools": {
+    "edit_operation": [
+      "convert mechanical forms to segmented carapace with riveted plating and articulated limbs",
+      "transform figure clothing into wrapped layered garments with long scarf and worn leather vest",
+      "render all metal surfaces with corroded hull texture and rust-streaked panels",
+      "redesign architecture as crumbling stone masonry fused with dormant war machine silhouettes",
+      "stylize subject as organic-mechanical hybrid form with compound optical sensors",
+      "convert robot or mech into monolithic torso with insectoid armour and asymmetric silhouette",
+      "reinterpret character as slim naturalistic figure with expressive ink-lined face and determined expression",
+      "transform background into post-apocalyptic wasteland with rust-earth terrain and sparse tangled root systems",
+      "add war machine silhouette with clawed manipulators and layered pauldrons to scene",
+      "convert crash or explosion into cel-animated destruction with orange-red flame bursts and debris scatter",
+      "render energy beams or weapons as luminous arcs with ethereal wisps and bone white highlights",
+      "transform environment into dense tropical overgrowth encroaching on corroded machinery",
+      "stylize water or reflective surface as serene blue-green lagoon with rust-earth border",
+      "convert dormant or inactive machine into awakening pose with crimson or pale cerulean sensor glow",
+      "redesign figure pose as contemplative crouching posture with back to viewer and scarf trailing",
+      "add compound optical sensors with glow effect in crimson, pale cerulean, pale green, or pale yellow",
+      "transform standard clothing into flight goggles, hooded cape, and weathered leather armour",
+      "render combat or action as dynamic motion-implied composition with speed lines and high contrast",
+      "convert building or cityscape into machine-spire skyline with clustered organic-mechanical architecture",
+      "add overgrowth of moss green and dense tropical vegetation to ruined mechanical forms"
+    ],
+    "surface_detail": [
+      "rust streaks and scorched panels",
+      "exposed hydraulic cables dangling from joints",
+      "oil-slick iridescence on armour plating",
+      "impact craters and weld scars",
+      "cracked enamel coating revealing base metal",
+      "riveted plating with corroded hull texture",
+      "dense stippling on texture surfaces and shadow recesses",
+      "fine cross-hatched shading on mechanical recesses",
+      "battle-worn chassis markings and scorch damage",
+      "moss green overgrowth on lower structural edges",
+      "oxidised copper patina on aged metal surfaces",
+      "bone white highlight on exposed edges and sensor lenses"
+    ],
+    "linework_style": [
+      "Moebius-inspired linework with variable weight outline",
+      "bold contour lines on mechanical forms, fine detail lines on textures",
+      "hand-inked line art with cel animation frame aesthetic",
+      "clean variable weight outline with flat colour fill",
+      "bold cel animation edges with fine stippling on surfaces",
+      "expressive ink-lined contours with loose background treatment",
+      "tight mechanical linework with dense detail in joints and recesses"
+    ],
+    "shading_method": [
+      "dense cross-hatched shading in shadowed regions and recesses",
+      "cel animation flat shadow fill with hard edge transitions",
+      "sepia ink wash with deep shadow fill",
+      "high contrast shadow on figures, loose background shading",
+      "fine stippling in shadow zones and surface textures",
+      "dense cross-hatching on mechanical forms, flat fill on figures",
+      "deep charcoal shadow fill with bone white highlights"
+    ],
+    "palette_instruction": [
+      "Limited palette — oxidised copper, iron grey, rust ochre, pale cerulean",
+      "Limited palette — warm sepia, iron grey, rust ochre, pale cerulean accents",
+      "Limited palette — charcoal shadow, bone white highlight, muted earth tones",
+      "Limited palette — rust ochre, charcoal shadow, iron grey, pale cerulean",
+      "Core palette of iron grey, rust ochre, oxidised copper with vivid red accent",
+      "Muted earth tones with amber dust and moss green accent colours",
+      "Sepia and charcoal base with pale cerulean light shafts and orange-red flame accents",
+      "Limited palette — bone white, iron grey, burnt sienna, pale cerulean"
+    ],
+    "lighting_instruction": [
+      "Harsh midday sun casting long shadows with amber dust fill",
+      "Amber dusk lighting with warm orange-red glow on surfaces",
+      "Pale cerulean light shafts cutting through smoke veil",
+      "Storm-lit dramatic illumination with deep shadow fill",
+      "Crimson sensor glow as key light source in deep shadows",
+      "Harsh midday sun casting short shadows, high contrast on figure",
+      "Pale cerulean sky light with dense shadow fill in recesses",
+      "Backlit silhouette against open cerulean sky with dust haze"
+    ],
+    "atmosphere": [
+      "amber dust haze across horizon",
+      "smoke veil drifting through scene",
+      "dust-hazed horizon under open cerulean sky",
+      "fog-filled valley haze in background",
+      "pale cerulean light shafts through atmospheric haze",
+      "storm-lit clouds with cerulean sky breaks",
+      "harsh midday heat shimmer and amber dust",
+      "deep shadow fill with smoke veil atmosphere"
+    ],
+    "environment_element": [
+      "rust-earth terrain with crumbling stone masonry",
+      "dense tropical overgrowth on corroded mechanical ruins",
+      "cracked dry ground with sparse tangled root systems",
+      "reflective water pools bordered by rust-earth terrain",
+      "sandy dunes with half-buried mechanical remnants",
+      "crumbling stone masonry fused with dormant war machine silhouettes",
+      "post-apocalyptic wasteland with exposed metal framework",
+      "machine-spire skyline of clustered organic-mechanical architecture",
+      "interior metalwork with ambient glow and exposed cables",
+      "overgrown ruins with moss green vegetation on lower edges"
+    ],
+    "sky_condition": [
+      "storm-lit clouds with cerulean sky breaks",
+      "open cerulean sky with dust-hazed horizon",
+      "amber dusk sky with warm light",
+      "fog-filled valley atmosphere",
+      "starlit night sky",
+      "dark storm sky with pale cerulean breaks",
+      "pale cerulean sky with harsh midday sun"
+    ],
+    "integration": [
+      "new elements match existing linework weight and hand-inked aesthetic",
+      "all additions follow cel animation frame style and flat colour fill",
+      "edited surfaces maintain corroded-mechanical texture language",
+      "style continuity with Moebius-inspired variable weight outline throughout",
+      "colour additions stay within limited palette constraints",
+      "overgrowth and rust tones integrate naturally with existing tones",
+      "shadow fill density matches across original and added elements"
+    ],
+    "preservation": [
+      "original composition and spatial relationships",
+      "figure proportions and expressive ink-lined face features",
+      "overall framing and shot perspective",
+      "background architectural silhouettes and horizon line",
+      "core pose and gesture of primary subject",
+      "existing scene lighting direction and shadow angles",
+      "primary subject identity and recognisable features"
+    ]
+  }
+}
